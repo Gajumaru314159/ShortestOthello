@@ -5,8 +5,8 @@
 ### Linux
 
 ```bash
-g++ -c main.cpp
-g++ -o othello.exe main.o
+gcc -c main.cpp -w
+gcc -o othello.exe main.o
 ./othello.exe
 ```
 
