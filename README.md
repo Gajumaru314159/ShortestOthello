@@ -1,6 +1,6 @@
 # Shortest Othello
 
-## ビルド方法
+## ビルド&実行方法
 
 ### Linux
 
@@ -12,7 +12,7 @@ gcc -o othello.exe main.o
 
 ### Windows
 
-VisualStudioで実行する場合はプリプロセッサに\_CRT_SECURE_NO_WARNINGSを追加し、必ず使用されるincludeファイルにstdio.hを追加してください。
+run.batを使用してください。
 
 ## 操作方法
 
